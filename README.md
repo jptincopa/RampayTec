@@ -14,13 +14,14 @@ Upon entering as a doctor, the information and progress of the patients being mo
 
 ![alt text](https://raw.githubusercontent.com/jptincopa/RampayTec/main/Images/1.PNG)
 
+You can find the STL file here: https://github.com/jptincopa/RampayTec/blob/main/CAD_Files/Base%20inspir%C3%B3metro.ipt
+
 
 The vital signs device will be for the measurement of saturation, heart rate and temperature, to assess the patient's condition during rehabilitation exercises.
 The present technological development for remote rehabilitation is justified, considering that post-ICU patients would have difficulties to go to rehabilitation therapy in a health establishment. 
 
 ![alt text](https://raw.githubusercontent.com/jptincopa/RampayTec/main/Images/1.jpeg)
 
-You can find the STL file here: https://github.com/jptincopa/RampayTec/blob/main/CAD_Files/Base%20inspir%C3%B3metro.ipt
 
 
 
